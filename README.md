@@ -1,2 +1,2 @@
 # templates
-Personal Excel and Libreoffice Templates
+Personal Excel and LibreOffice Templates
